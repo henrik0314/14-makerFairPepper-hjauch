@@ -1,5 +1,7 @@
 # makerFairPepper
 
+Simon und Henrik
+
 Liquid: 
 
 https://www.youtube.com/watch?v=DKSpgFuKeb4
